@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-persist/static/css/main.b7e8b0c4.css",
+    "main.js": "/redux-persist/static/js/main.9a833ecd.js",
+    "index.html": "/redux-persist/index.html",
+    "main.b7e8b0c4.css.map": "/redux-persist/static/css/main.b7e8b0c4.css.map",
+    "main.9a833ecd.js.map": "/redux-persist/static/js/main.9a833ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7e8b0c4.css",
+    "static/js/main.9a833ecd.js"
+  ]
+}
